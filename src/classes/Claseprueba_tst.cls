@@ -21,7 +21,7 @@ private class Claseprueba_tst{
       Item_Factura__c IngresoItem3=new Item_Factura__c(Name=nombreItem,Cantidad__c=cantidad,Valor__c=null,FacturaE__c='a05o0000001vLuk');
     insert IngresoItem3;
    // SE REALIZO UN CAMBIO	
-    
+   // SE REALIZO OTRO CAMBIO 
 
     }
 
