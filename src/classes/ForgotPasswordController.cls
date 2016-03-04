@@ -1,6 +1,8 @@
 /**
  * An apex page controller that exposes the site forgot password functionality
  */
+ 
+ // Cambio uno
 public with sharing class ForgotPasswordController {
     public String username {get; set;}   
        
